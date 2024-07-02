@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract MyUniqueToken {
+contract ERC20Mod3Proj {
     string public name;
     string public symbol;
     uint8 public decimals;
